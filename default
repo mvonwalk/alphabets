@@ -36,3 +36,4 @@ local alphabet = {
     ["8"] = "ჲ",
     ["9"] = "ჳ"
 }
+return alphabet
